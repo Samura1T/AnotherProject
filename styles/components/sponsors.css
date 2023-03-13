@@ -1,0 +1,9 @@
+.sponsors{
+    display: flex;
+    background-color: #e7272d;
+    justify-content: center;
+    padding: 20px 0;
+}
+.sponsor-inner img{
+    margin: 0 15px;
+}

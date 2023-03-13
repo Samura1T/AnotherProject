@@ -1,0 +1,51 @@
+.delivery{
+    background-image: url(../../images/delivery-bg.jpg);
+    background-size: cover;
+    padding: 80px;
+}
+.delivery-inner{
+    display: flex;
+    justify-content: space-between;
+}
+.delivery-inner h3{
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 30px;
+    line-height: 1.1;
+    letter-spacing: 0px;
+}
+.delivery-inner p{
+    font-weight: 400;
+    font-family: 'Rubik', sans-serif;
+    color: #ffffff;
+    font-size: 22px;
+    line-height: 1.5;
+    letter-spacing: 0px;
+}
+.delivery-item{
+    width: 50%;
+}
+.delivery-call{
+    font-weight: 700;
+    font-family: 'Rubik', sans-serif;
+    color: #ffffff;
+    font-size: 22px;
+    line-height: 1.5;
+    letter-spacing: 0px;
+}
+.delivery-number{
+    font-weight: 700;
+    font-family: 'Rubik', sans-serif;
+    color: #ffcc00;
+    font-size: 22px;
+    line-height: 1.5;
+    letter-spacing: 0px;
+}
+.delivery-time{
+    font-weight: 700;
+    font-family: 'Rubik', sans-serif;
+    color: #ffcc00;
+    font-size: 22px;
+    line-height: 1.5;
+    letter-spacing: 0px;
+}
